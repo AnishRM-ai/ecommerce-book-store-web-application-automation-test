@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce-book-store-web-application-automation-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnishRM-ai/ecommerce-book-store-web-application-automation-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnishRM-ai/ecommerce-book-store-web-application-automation-test/issues"
+  },
+  "homepage": "https://github.com/AnishRM-ai/ecommerce-book-store-web-application-automation-test#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
